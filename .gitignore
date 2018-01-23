@@ -13,3 +13,6 @@ hs_err_pid*
 
 .idea/
 HadoopRPCExample.iml
+/server/server.iml
+/client/client.iml
+/common/common.iml
